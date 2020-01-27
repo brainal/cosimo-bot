@@ -10,3 +10,5 @@ Prima di poter usare e modificare questo fantastico bot ru prufessu Cosimo, devi
   <li>Eseguire "npm init"</li>
   <li>Eseguire "node index.js"</li>
 </ul>
+
+<b>Dopo tutto ciò, u prufessù è online con successo.</b>
